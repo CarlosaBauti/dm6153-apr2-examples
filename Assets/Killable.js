@@ -1,0 +1,3 @@
+﻿function Kill() {
+  Destroy(gameObject);
+}

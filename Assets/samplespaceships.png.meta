@@ -1,0 +1,1155 @@
+fileFormatVersion: 2
+guid: bae5de8a61158416c87a9811054258a1
+timeCreated: 1428022146
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samplespaceships_0
+    21300002: samplespaceships_1
+    21300004: samplespaceships_2
+    21300006: samplespaceships_3
+    21300008: samplespaceships_4
+    21300010: samplespaceships_5
+    21300012: samplespaceships_6
+    21300014: samplespaceships_7
+    21300016: samplespaceships_8
+    21300018: samplespaceships_9
+    21300020: samplespaceships_10
+    21300022: samplespaceships_11
+    21300024: samplespaceships_12
+    21300026: samplespaceships_13
+    21300028: samplespaceships_14
+    21300030: samplespaceships_15
+    21300032: samplespaceships_16
+    21300034: samplespaceships_17
+    21300036: samplespaceships_18
+    21300038: samplespaceships_19
+    21300040: samplespaceships_20
+    21300042: samplespaceships_21
+    21300044: samplespaceships_22
+    21300046: samplespaceships_23
+    21300048: samplespaceships_24
+    21300050: samplespaceships_25
+    21300052: samplespaceships_26
+    21300054: samplespaceships_27
+    21300056: samplespaceships_28
+    21300058: samplespaceships_29
+    21300060: samplespaceships_30
+    21300062: samplespaceships_31
+    21300064: samplespaceships_32
+    21300066: samplespaceships_33
+    21300068: samplespaceships_34
+    21300070: samplespaceships_35
+    21300072: samplespaceships_36
+    21300074: samplespaceships_37
+    21300076: samplespaceships_38
+    21300078: samplespaceships_39
+    21300080: samplespaceships_40
+    21300082: samplespaceships_41
+    21300084: samplespaceships_42
+    21300086: samplespaceships_43
+    21300088: samplespaceships_44
+    21300090: samplespaceships_45
+    21300092: samplespaceships_46
+    21300094: samplespaceships_47
+    21300096: samplespaceships_48
+    21300098: samplespaceships_49
+    21300100: samplespaceships_50
+    21300102: samplespaceships_51
+    21300104: samplespaceships_52
+    21300106: samplespaceships_53
+    21300108: samplespaceships_54
+    21300110: samplespaceships_55
+    21300112: samplespaceships_56
+    21300114: samplespaceships_57
+    21300116: samplespaceships_58
+    21300118: samplespaceships_59
+    21300120: samplespaceships_60
+    21300122: samplespaceships_61
+    21300124: samplespaceships_62
+    21300126: samplespaceships_63
+    21300128: samplespaceships_64
+    21300130: samplespaceships_65
+    21300132: samplespaceships_66
+    21300134: samplespaceships_67
+    21300136: samplespaceships_68
+    21300138: samplespaceships_69
+    21300140: samplespaceships_70
+    21300142: samplespaceships_71
+    21300144: samplespaceships_72
+    21300146: samplespaceships_73
+    21300148: samplespaceships_74
+    21300150: samplespaceships_75
+    21300152: samplespaceships_76
+    21300154: samplespaceships_77
+    21300156: samplespaceships_78
+    21300158: samplespaceships_79
+    21300160: samplespaceships_80
+    21300162: samplespaceships_81
+    21300164: samplespaceships_82
+    21300166: samplespaceships_83
+    21300168: samplespaceships_84
+    21300170: samplespaceships_85
+    21300172: samplespaceships_86
+    21300174: samplespaceships_87
+    21300176: samplespaceships_88
+    21300178: samplespaceships_89
+    21300180: samplespaceships_90
+    21300182: samplespaceships_91
+    21300184: samplespaceships_92
+    21300186: samplespaceships_93
+    21300188: samplespaceships_94
+    21300190: samplespaceships_95
+    21300192: samplespaceships_96
+    21300194: samplespaceships_97
+    21300196: samplespaceships_98
+    21300198: samplespaceships_99
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: samplespaceships_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 408
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 405
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 405
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 405
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 360
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 360
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 363
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 315
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 315
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 273
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 270
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 270
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 273
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 225
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 225
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 225
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 225
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 225
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 225
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 225
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 225
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 180
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_55
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 180
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 180
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 135
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 135
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 138
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 135
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_66
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 135
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 135
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 138
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_69
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 135
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_71
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 90
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 93
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_75
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 90
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_81
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_82
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_83
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 45
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_86
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_89
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 45
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_94
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_96
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_97
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: samplespaceships_99
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
