@@ -1,7 +1,7 @@
-﻿var x : int;
-var y : int;
+﻿var movlado : int;
+var movarriba: int;
 
 function Update () {
-  transform.position.x = 10 * x + 5;
-  transform.position.z = 10 * y + 5;
+	transform.position.x = 10 * movlado + 5;
+  	transform.position.z = 10 * movarriba + 5;
 }
